@@ -14,3 +14,5 @@ Tools to control a Paparazzi UAV rotorcraft from a Nintendo Game Boy Classic
   and use `gb2ivy.py` tool (in `sw/ground_segment/joystick` folder)
 
 
+See video: https://youtu.be/LoLxrchwSpo
+
