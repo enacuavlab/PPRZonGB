@@ -1,0 +1,3 @@
+[submodule "ems-flasher"]
+	path = ems-flasher
+	url = git@github.com:mikeryan/ems-flasher.git

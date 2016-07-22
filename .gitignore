@@ -1,0 +1,13 @@
+*.[oa]
+*.gb
+*.lst
+*.map
+*.sym
+
+*~
+*.swp
+
+*.pyc
+
+gbdk/
+
